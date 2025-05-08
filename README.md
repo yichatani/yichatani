@@ -19,8 +19,9 @@ Here are some ideas to get you started:
   <img src="./myc_logo.gif" width="1000"/>
 </p>
 
--->
-
 ![LOGO](./myc_logo.gif)
+-->
+<img src="./myc_logo.gif" width="70%"/>
+
 
 
