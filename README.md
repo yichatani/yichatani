@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ![LOGO](./myc_logo.gif)
 -->
-<img src="./logo.gif" width="70%"/>
+<img src="./logo.gif" width="100%"/>
 
 
 
