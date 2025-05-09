@@ -20,8 +20,13 @@ Here are some ideas to get you started:
 </p>
 
 ![LOGO](./myc_logo.gif)
--->
+
 <img src="./logo.gif" width="100%"/>
+-->
+
+<p align="center">
+  <img src="./logo.gif" width="800"/>
+</p>
 
 
 
