@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="./logo.gif" width="800"/>
+  <img src="./logo.gif" width="700"/>
 </p>
 
 
